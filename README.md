@@ -30,7 +30,7 @@ This tool gives you a graphical way to change that info:
 
 ```bash
 pip install PyQt5 pypresence
-
+```
 ---
 
 ## How to use
@@ -42,6 +42,13 @@ pip install PyQt5 pypresence
 - Put it in the tool
 
 And now as long as you have the tool open, you will have a custom rich presence on your discord profile!
+
+---
+
+## Credits
+
+Made with PyQt5 and pypresence
+Logo © Discord Inc. Used here under fair use for illustrative purposes.
 
 
 
